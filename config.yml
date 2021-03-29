@@ -1,5 +1,5 @@
 baseURL: "https://bimnaepsdelugo.es"
-languageCode: "es-es"
+languageCode: "es-ES"
 defaultContentLanguage: "es"
 title: "BIM na EPS de Lugo"
 theme: "hugo-theme-casper"
@@ -13,17 +13,15 @@ params:
     Se queres saber máis acerca do que é, e o importante que pode ser para a tua carreira
     sigue navegando nesta páxina
     
-  authorlocation: "authorlocation"
-  # cover: "images/BIMbeginnerHeader.jpg"
+  authorlocation: "Lugo, Espana"
   cover: "images/w-2000_h-1100_m-cover_s-any__tunnelling.jpeg"
-  ## save the image you want to use as background picture in directory "./static/images"
-  author: "BIM"
+  author: "EPS BIM"
   # logo = "images/logo.png"
   ## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
   githubName: "muchomuchacho"
-  # linkedinName = "BIM"
   email: "bim@eps.es"
-  hideHUGOSupport: true
+  hideHUGOSupport: false
+  customFooterPartial: "BIM na EPS de Lugo"
 
 # here are the buttons on the menu
 menu:
