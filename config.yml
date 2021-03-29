@@ -14,7 +14,8 @@ params:
     sigue navegando nesta páxina
     
   authorlocation: "authorlocation"
-  cover: "images/BIMbeginnerHeader.jpg"
+  # cover: "images/BIMbeginnerHeader.jpg"
+  cover: "images/civ-e1.gif"
   ## save the image you want to use as background picture in directory "./static/images"
   author: "BIM"
   # logo = "images/logo.png"
