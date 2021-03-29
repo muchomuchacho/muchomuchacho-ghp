@@ -1,23 +1,23 @@
-baseurl = "https://rafapi.github.io/"
+baseurl = "https://muchomuchacho.github.io/"
 languageCode = "en-GB"
-title = "Portfolio"
+title = "BIM"
 theme = "hugo-theme-casper"
 paginate = 4
 Copyright = "All rights reserved"
 canonifyurls = true
 
 [params]
-description = "Personal ML portfolio"
+description = "BIM"
 authorlocation = "authorlocation"
 cover = "images/cover.png"
 ## save the image you want to use as background picture in directory "./static/images"
-author = "Rafael Pardinas"
+author = "BIM"
 # logo = "images/logo.png"
 ## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
-githubName = "rafapi"
-linkedinName = "Rafael Pardinas"
+githubName = "muchomuchacho"
+# linkedinName = "Rafael Pardinas"
 email = "your email"
-hideHUGOSupport = false
+hideHUGOSupport = true
 
 # here are the buttons on the menu
 [[menu.main]]
