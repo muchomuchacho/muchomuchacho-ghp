@@ -8,7 +8,7 @@ Copyright: "All rights reserved"
 canonifyurls: true
 
 params:
-  description: >
+  description: |
     BIM significa 'building information modelling'
     Se queres saber máis acerca do que é, e o importante que pode ser para a tua carreira
     sigue navegando nesta páxina
