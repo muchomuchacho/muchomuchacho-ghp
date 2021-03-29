@@ -2,7 +2,5 @@
 Source code for my personal portfolio
 
 ### Init
-```
-git clone https://github.com/muchomuchacho/muchomuchacho-ghp.git
-git submodule update --init` to pull the themes
-```
+Pull the repo: `git clone https://github.com/muchomuchacho/muchomuchacho-ghp.git`
+Pull the themes: `git submodule update --init`
