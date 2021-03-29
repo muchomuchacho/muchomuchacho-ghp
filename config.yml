@@ -21,8 +21,7 @@ params:
   githubName: "muchomuchacho"
   email: "bim@eps.es"
   hideHUGOSupport: false
-  customFooterPartial: "BIM na EPS de Lugo"
-
+  
 # here are the buttons on the menu
 menu:
   main:
