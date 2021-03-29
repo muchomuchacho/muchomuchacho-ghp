@@ -10,7 +10,7 @@ canonifyurls = true
 [params]
 description = ["BIM significa 'building information modelling'",
                "Se queres saber máis acerca do que é, e o importante que pode ser para a tua carreira",
-                "sigue navegando nesta páxina"]
+               "sigue navegando nesta páxina"]
 authorlocation = "authorlocation"
 cover = "images/BIMbeginnerHeader.jpg"
 ## save the image you want to use as background picture in directory "./static/images"
