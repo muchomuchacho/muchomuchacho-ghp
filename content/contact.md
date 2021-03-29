@@ -5,4 +5,4 @@ date = "2021-03-29"
 author = "EPS"
 +++
 
-Escribenos ao noso correo: bim@eps.es
+Escribenos ao noso correo-e: bim@eps.es
