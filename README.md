@@ -1,4 +1,4 @@
-# rafapi-ghp
+# public website
 Source code for my personal portfolio
 
 ### Init
