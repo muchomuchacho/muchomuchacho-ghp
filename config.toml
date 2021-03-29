@@ -8,8 +8,8 @@ Copyright = "All rights reserved"
 canonifyurls = true
 
 [params]
-description = ["BIM significa 'building information modelling'",
-               "Se queres saber máis acerca do que é, e o importante que pode ser para a tua carreira",
+description = ["BIM significa 'building information modelling'<br>",<br>
+               "Se queres saber máis acerca do que é, e o importante que pode ser para a tua carreira<br>",
                "sigue navegando nesta páxina"]
 authorlocation = "authorlocation"
 cover = "images/BIMbeginnerHeader.jpg"
