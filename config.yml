@@ -2,7 +2,7 @@ baseURL: "https://bimnaepsdelugo.es"
 languageCode: "es-ES"
 defaultContentLanguage: "es"
 title: "BIM na EPS de Lugo"
-theme: "hugo-theme-casper"
+theme: "hugo-mucho-theme"
 paginate: 2
 pluralizelisttitles: false
 Copyright: "Todolos dereitos reservados"
@@ -13,7 +13,8 @@ params:
     BIM significa 'building information modelling'.  
     Se queres saber máis acerca do que é, e o importante que pode ser para a tua carreira
     sigue navegando nesta páxina
-    
+
+
   authorlocation: "Lugo, Espana"
   cover: "images/w-2000_h-1100_m-cover_s-any__tunnelling.jpeg"
   author: "EPS BIM"
@@ -22,7 +23,7 @@ params:
   githubName: "bimnaepsdelugo"
   email: "bim@eps.es"
   hideHUGOSupport: false
-  
+
 # here are the buttons on the menu
 menu:
   main:
