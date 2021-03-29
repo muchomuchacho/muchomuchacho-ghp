@@ -1,6 +1,7 @@
 +++
-date = 2021-03-29T20:41:01+01:00
+date = "2021-03-29T20:41:01+01:00"
 title = "Entrada segunda"
+image = "/content/images/web-application-testing.png"
 draft = false
 
 +++
