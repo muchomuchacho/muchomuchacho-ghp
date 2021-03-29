@@ -18,7 +18,7 @@ params:
   author: "EPS BIM"
   # logo = "images/logo.png"
   ## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
-  githubName: "muchomuchacho"
+  githubName: "bimnaepsdelugo"
   email: "bim@eps.es"
   hideHUGOSupport: false
   
