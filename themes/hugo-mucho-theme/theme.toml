@@ -2,14 +2,14 @@ name = "Casper"
 license = "MIT"
 licenselink = "https://github.com/muchomuchacho/hugo-mucho-theme/blob/master/LICENSE.md"
 description = "Casper style theme theme"
-homepage = "https://beamnaepsdelugo.es"
+homepage = "https://bimnaepsdelugo.es"
 tags = ["cursos"]
 features = ["disqus", "google analytics","share"]
 min_version=0.25
 
 [author]
   name = "muchomuchacho"
-  homepage = "https://beamnaepsdelugo.es"
+  homepage = "https://bimnaepsdelugo.es"
 
 [original]
   name = "Casper"
