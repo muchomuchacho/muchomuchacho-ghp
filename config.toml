@@ -1,5 +1,5 @@
-baseurl = "https://bimnaepsdelugo.es"
-languageCode = "en-GB"
+baseurl = "https://bimnaepsdelugo.es/"
+languageCode = "es-ES"
 title = "BIM na EPS de Lugo"
 theme = "hugo-theme-casper"
 paginate = 4
