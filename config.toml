@@ -8,9 +8,9 @@ Copyright = "All rights reserved"
 canonifyurls = true
 
 [params]
-description = "BIM significa 'building information modelling'
+description = """BIM significa 'building information modelling'
 Se queres saber máis acerca do que é o importante que pode ser para a tua carreira sigue navegando nesta páxina"
-authorlocation = "authorlocation"
+authorlocation = "authorlocation"""
 cover = "images/BIMbeginnerHeader.jpg"
 ## save the image you want to use as background picture in directory "./static/images"
 author = "BIM"
