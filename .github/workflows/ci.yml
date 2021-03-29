@@ -26,9 +26,9 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.TOKEN }}
         with:
           source-directory: 'public'
-          destination-github-username: 'rafapi'
-          destination-repository-name: 'rafapi.github.io'
-          user-email: rafapi@gmail.com
+          destination-github-username: 'muchomuchacho'
+          destination-repository-name: 'muchomuchacho.github.io'
+          user-email: 4213495+muchomuchacho@users.noreply.github.com
           commit-message: See ORIGIN_COMMIT
           target-branch: main
       - name: Test get variable exported by push-to-another-repository
