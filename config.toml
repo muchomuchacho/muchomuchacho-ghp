@@ -21,21 +21,21 @@ hideHUGOSupport = true
 
 # here are the buttons on the menu
 [[menu.main]]
-name = "Home" # Button will display as "Home"
+name = "Inicio" # Button will display as "Home"
 weight = 100 # the weight decides the position of the button (higher or lower)
 identifier = "home"
 pre = "<br />"
 url = "/"
 
 [[menu.main]]
-name = "Contact"
+name = "Contacto"
 weight = 1
 identifier = "contact" # this button will refer to a markdown file named "contact" in the content folder
 pre = "<br />"
 url = "/contact"
 
 [[menu.main]]
-name = "About"
+name = "Quen somos..."
 weight = 40
 identifier = "about" # this button will refer to a markdown file named "about" in the content folder
 pre = "<br />"
