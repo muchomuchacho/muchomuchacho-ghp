@@ -4,6 +4,7 @@ defaultContentLanguage: "es"
 title: "BIM na EPS de Lugo"
 theme: "hugo-theme-casper"
 paginate: 5
+pluralizelisttitles: false
 Copyright: "All rights reserved"
 canonifyurls: true
 
@@ -35,11 +36,11 @@ menu:
       identifier: "about"  # this button will refer to a markdown file named "about" in the content folder
       pre: "<br />"
       url: "/about"
-#     - name: "Contacto"
-#       weight: 1
-#       identifier: "contact"  # this button will refer to a markdown file named "contact" in the content folder
-#       pre: "<br />"
-#       url: "/contact"
+    - name: "Contacto"
+      weight: 1
+      identifier: "contact"  # this button will refer to a markdown file named "contact" in the content folder
+      pre: "<br />"
+      url: "/contact"
 
 permalinks:
   post: "/:slug/"
