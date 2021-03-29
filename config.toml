@@ -16,7 +16,7 @@ author = "BIM"
 ## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
 githubName = "muchomuchacho"
 # linkedinName = "BIM"
-email = "your email"
+email = "bim@eps.es"
 hideHUGOSupport = true
 
 # here are the buttons on the menu
