@@ -1,6 +1,6 @@
 baseURL = "https://bimnaepsdelugo.es"
 languageCode = "es-es"
-defaultContentLanguage: es
+defaultContentLanguage = "es"
 title = "BIM na EPS de Lugo"
 theme = "hugo-theme-casper"
 paginate = 5
