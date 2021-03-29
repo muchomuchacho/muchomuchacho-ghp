@@ -1,13 +1,13 @@
 baseurl = "https://muchomuchacho.github.io/"
 languageCode = "en-GB"
-title = "BIM"
+title = "BIM na EPS de Lugo"
 theme = "hugo-theme-casper"
 paginate = 4
 Copyright = "All rights reserved"
 canonifyurls = true
 
 [params]
-description = "BIM"
+description = "BIM na EPS de Lugo"
 authorlocation = "authorlocation"
 cover = "images/BIMbeginnerHeader.jpg"
 ## save the image you want to use as background picture in directory "./static/images"
