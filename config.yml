@@ -30,16 +30,16 @@ menu:
       identifier: "home"
       pre: "<br />"
       url: "/"
-    - name: "Contacto"
-      weight: 1
-      identifier: "contact"  # this button will refer to a markdown file named "contact" in the content folder
-      pre: "<br />"
-      url: "/contact"
     - name: "Quen somos..."
       weight: 40
       identifier: "about"  # this button will refer to a markdown file named "about" in the content folder
       pre: "<br />"
       url: "/about"
+#     - name: "Contacto"
+#       weight: 1
+#       identifier: "contact"  # this button will refer to a markdown file named "contact" in the content folder
+#       pre: "<br />"
+#       url: "/contact"
 
 permalinks:
   post: "/:slug/"
