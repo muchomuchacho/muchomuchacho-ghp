@@ -1,7 +1,7 @@
 +++
 comments = false
 share = false
-menu = "main"
+menu = ""
 tags = ["eventos","cursos"]
 date = 2021-03-29T10:17:03+01:00
 title = "Datos do curso"
