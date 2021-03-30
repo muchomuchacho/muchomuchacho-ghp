@@ -3,7 +3,7 @@ languageCode: "es-ES"
 defaultContentLanguage: "es"
 title: "BIM na EPS de Lugo"
 theme: "hugo-theme-casper"
-# paginate: 5
+paginate: 2
 pluralizelisttitles: false
 Copyright: "Todolos dereitos reservados"
 canonifyurls: true
