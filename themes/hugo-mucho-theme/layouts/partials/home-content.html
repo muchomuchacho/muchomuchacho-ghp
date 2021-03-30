@@ -10,20 +10,20 @@
         {{ if .Site.Params.paginatedsections }}
             {{ $.Scratch.Set "paginatedSections" .Site.Params.paginatedsections }}
         {{ else }}
-            {{ $.Scratch.Set "paginatedSections" "post" }}
+            {{ $.Scratch.Set "paginatedSections" "posts" }}
         {{ end }}
     {{ end }}
 
     {{ $list := where .Data.Pages "Section" "in" ($.Scratch.Get "paginatedSections") }}
     {{ $list := where $list "Section" "!=" "" }}
-    {{ $paginator := .Paginate ( .Paginator 5 ) }}
+    {{ $paginator := .Paginate ( where $list "in" .Paginator ) }}
 
     <div class="extra-pagination inner">
         {{ partial "pagination.html" $paginator }}
     </div>
 
-    {{ range $index, $page := $paginator.Pages }}
-        {{ partial "li.html" $page }}
+    {{ range $idx, $page := where $paginator.Pages "Section" "posts" }}
+      {{ partial "li.html" $page }}
     {{ end }}
 
     {{ partial "pagination.html" $paginator }}
