@@ -1,7 +1,7 @@
 +++
-date = "2021-03-29T20:41:01+01:00"
-title = "Entrada segunda"
-image = "/content/images/2021/web-application-testing.png"
+date = "2021-03-30T20:41:01+01:00"
+title = "Programa e datos de rexistro"
+image = "/content/images/2021/image5.jpg"
 draft = false
 comments = false
 share = false
