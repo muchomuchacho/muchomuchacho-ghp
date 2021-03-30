@@ -14,8 +14,7 @@ tags = ["eventos","cursos"]
 
 #### VICERREITORÍA DE IGUALDADE, CULTURA E SERVIZOS
 
-
-{{< image-resize "/content/images/2021/image5" "300x300" >}}
+{{< figure src="/content/images/2021/image5.jpg" alt="dwarf" width="100px" >}}
 
     Nome do Curso: BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS. 
 
