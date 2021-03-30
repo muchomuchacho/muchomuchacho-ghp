@@ -24,9 +24,9 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
     Calendario de celebración: 20, 21, 22 e 23 de xullo de 2021 
 
     Lugar de celebración: ESCOLA POLITÉCNICA SUPERIOR DE ENXEÑARÍA DE LUGO. 
-    
+
  ![image4](/content/images/2021/image2.png)
- 
+
     Espazo de impartición de Conferencias e Mesa Redonda: SALÓN DE ACTOS 
 
     Espazo de impartición de Talleres con instrumentación de captura masiva de datos: CAMPO DE PRÁCTICAS EPSDELUGO, ZONA VAGUADA. Procesado no SALÓN DE ACTOS 
@@ -35,7 +35,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
     Límite de alumnos: 70 
 
- 
+
 > Este curso, debido a súa complexidade, conta con cofinaciación procedente de varias institucións e entidades: 
 
     ESCOLA POLITÉCNICA SUPERIOR DE ENXEÑARÍA DE LUGO 
@@ -51,7 +51,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
     COLEXIO OFICIAL DE ENXEÑEIROS EN XEOMÁTICA E TOPOGRAFÍA 
 
     COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS FORESTAIS DE GALICIA 
-    
+
 ---
 
 ### PROGRAMA DO CURSO: 
