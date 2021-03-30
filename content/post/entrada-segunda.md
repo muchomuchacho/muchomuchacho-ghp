@@ -10,14 +10,14 @@ tags = ["eventos","cursos"]
 
 +++
 
-## UNIVERSIDADE DE SANTIAGO DE COMPOSTELA. 
+### UNIVERSIDADE DE SANTIAGO DE COMPOSTELA. 
 
-### VICERREITORÍA DE IGUALDADE, CULTURA E SERVIZOS  
+#### VICERREITORÍA DE IGUALDADE, CULTURA E SERVIZOS  
 
 ![image2](/content/images/2021/image5.jpg)
 
 
-    >Nome do Curso: BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS. 
+    Nome do Curso: BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS. 
 
     Dirección: José Antonio Pardiñas García 
 
@@ -29,7 +29,7 @@ tags = ["eventos","cursos"]
     
  ![image4](/content/images/2021/image2.png)
  
-     Espazo de impartición de Conferencias e Mesa Redonda: SALÓN DE ACTOS 
+    Espazo de impartición de Conferencias e Mesa Redonda: SALÓN DE ACTOS 
 
     Espazo de impartición de Talleres con instrumentación de captura masiva de datos: CAMPO DE PRÁCTICAS EPSDELUGO, ZONA VAGUADA. Procesado no SALÓN DE ACTOS 
 
@@ -45,86 +45,86 @@ tags = ["eventos","cursos"]
 
 * Este curso, debido a súa complexidade, conta con cofinaciación procedente de varias institucións e entidades: 
 
-    >ESCOLA POLITÉCNICA SUPERIOR DE ENXEÑARÍA DE LUGO 
+        ESCOLA POLITÉCNICA SUPERIOR DE ENXEÑARÍA DE LUGO 
 
-    CONCELLO DE LUGO 
+        CONCELLO DE LUGO 
 
-    DEPUTACIÓN DE LUGO 
+        DEPUTACIÓN DE LUGO 
 
-    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS AGRÍCOLAS DE Lugo  
+        COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS AGRÍCOLAS DE Lugo  
 
-    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS EN OBRAS PÚBLICAS E ENXEÑARÍA CIVIL 
+        COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS EN OBRAS PÚBLICAS E ENXEÑARÍA CIVIL 
 
-    COLEXIO OFICIAL DE ENXEÑEIROS EN XEOMÁTICA E TOPOGRAFÍA 
+        COLEXIO OFICIAL DE ENXEÑEIROS EN XEOMÁTICA E TOPOGRAFÍA 
 
-    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS FORESTAIS DE GALICIA 
+        COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS FORESTAIS DE GALICIA 
     
     
 
-## PROGRAMA DO CURSO: 
+### PROGRAMA DO CURSO: 
 
  
 
-### Primeira Xornada: día 20 de xullo de 2021 
+#### Primeira Xornada: día 20 de xullo de 2021 
 
  
 
-    APERTURA OFICIAL DO CURSO DE VERÁN 
+* APERTURA OFICIAL DO CURSO DE VERÁN 
 
     9:00 a 9:20 
 
-    Entrega documentación necesaria 
+* Entrega documentación necesaria 
 
     9:20 a 9:30 
 
  
 
-    CONFERENCIAS è Horario de mañá, de 9:30 a 14:00 
+* CONFERENCIAS è Horario de mañá, de 9:30 a 14:00 
 
  
 
     9:30 a 11:15  
 
-    Conferencia 1. Empresa privada A&B 
+        Conferencia 1. Empresa privada A&B 
 
-Coñecemento do BIM. Idea xeral da Metodoloxía e Análise de tódolos Perfiles Técnicos BIM. 
+        Coñecemento do BIM. Idea xeral da Metodoloxía e Análise de tódolos Perfiles Técnicos BIM. 
 
-Conferenciante: André Garrido Iglesias 
+        Conferenciante: André Garrido Iglesias 
 
  
 
-    Conferencia 2. Empresa privada A&B 
+        Conferencia 2. Empresa privada A&B 
 
-O BIM na actualidade. Implantación e procesos 
+        O BIM na actualidade. Implantación e procesos 
 
-Conferenciante: Verónica Vázquez Pulido 
+        Conferenciante: Verónica Vázquez Pulido 
 
  
 
     11:15 a 11:45 
 
-    Café/Descanso 
+        Café/Descanso 
 
  
 
     11:45 a 14:00 
 
-    Conferencia 3. Empresa privada A&B 
+        Conferencia 3. Empresa privada A&B 
 
-Un Proxecto BIM. Dimensións Ferramentas. Modelo. 
+        Un Proxecto BIM. Dimensións Ferramentas. Modelo. 
 
-Conferenciante: André Garrido Iglesias 
+        Conferenciante: André Garrido Iglesias 
 
  
 
-    Conferencia 4. Empresa privada A&B 
+        Conferencia 4. Empresa privada A&B 
 
-O BIM na Enxeñaría Civil e en Xeomática e Topografía. 
+        O BIM na Enxeñaría Civil e en Xeomática e Topografía. 
 
-Conferenciante: Verónica Vázquez Pulido 
+        Conferenciante: Verónica Vázquez Pulido 
 
 
-### Primeira Xornada: día 20 de xullo de 2021 
+#### Primeira Xornada: día 20 de xullo de 2021 
     
     
 * TALLERES è Horario de Tarde, de 17:00 a 19:00 
@@ -146,7 +146,7 @@ Toma de datos de campo en Tempo Real
 Conferenciante: Alicia Cañizares Sánchez 
 
 
-### Segunda Xornada: día 21 de xullo de 2021 
+#### Segunda Xornada: día 21 de xullo de 2021 
 
  
 
@@ -197,7 +197,7 @@ Proxectos Design and Built: Xestión de Axentes, Información e Comunicación pa
 Conferenciante: Joana Menéres Pimentel de Melo
 
 
-### Segunda Xornada: día 21 de xullo de 2021 
+#### Segunda Xornada: día 21 de xullo de 2021 
 
  
 
@@ -229,7 +229,7 @@ Conferenciante: Jorge Torrico Liz
 
 
 
-### Terceira Xornada: día 22 de xullo de 2021 
+#### Terceira Xornada: día 22 de xullo de 2021 
 
  
 
@@ -279,8 +279,6 @@ Tema 2.- Os roles do BIM, as persoas: como afecta a implantación desta metodolo
 
     Descanso/Café 
 
-Page Break 
-
  
 
     11:45 a 14:00 
@@ -306,7 +304,7 @@ Tema 6.- Intervención Telepresencial desde Chile de Técnico da Empresa SACYR p
 
 
 
-### Terceira Xornada: día 22 de xullo de 2021 
+#### Terceira Xornada: día 22 de xullo de 2021 
 
  
 
@@ -334,7 +332,7 @@ Conferenciante: José Juan Arranz Justel
 
 
 
-### Cuarta Xornada: día 23 de xullo de 2021 
+#### Cuarta Xornada: día 23 de xullo de 2021 
 
  
 
@@ -386,7 +384,7 @@ Page Break
 
  
 
-## CLAUSURA DO CURSO DE VERÁN 
+### CLAUSURA DO CURSO DE VERÁN 
 
     13:45 a 14:00 
 
@@ -394,27 +392,28 @@ Montserrat Valcárcel Armesto, Vicerreitora de Coordenación do Campus de Lugo
 
 
 
-## CRÉDITOS E DIPLOMA DE ASISTENCIA 
+### CRÉDITOS E DIPLOMA DE ASISTENCIA 
 
-A USC recoñece os cursos da Universidade de Verán 2021 a efectos de créditos ECTS (titulacións de Grao) para o seu estudantado coa seguinte equivalencia, e recibirán a tal efecto un certificado de crédito, sempre e cando cumpran coa asistencia ao 80% das horas lectivas do curso: 
+    A USC recoñece os cursos da Universidade de Verán 2021 a efectos de créditos ECTS (titulacións de Grao) para o seu estudantado coa seguinte equivalencia, e recibirán a tal efecto un certificado de crédito, sempre e cando cumpran coa asistencia ao 80% das horas lectivas do curso: 
 
- 2 créditos por cada curso de 25 ou máis horas (máximo 6 créditos en total) 
+     2 créditos por cada curso de 25 ou máis horas (máximo 6 créditos en total) 
 
-1 crédito por cada curso de menos de 25 horas (máximo 6 créditos en total) 
-
-
+    1 crédito por cada curso de menos de 25 horas (máximo 6 créditos en total) 
 
 
 
-## MATRÍCULA 
 
- IMPORTE DA MATRÍCULA 
 
-Taxa xeral: 120 € 
+### MATRÍCULA 
 
-Taxa reducida: 70 €  
+    IMPORTE DA MATRÍCULA 
 
-Aplicable a estudantes universitarios, de bacharelato ou de formación profesional, pensionistas, desempregados, socios da Asociación de Antigos alumnos da USC (ALUMNI) e PDI e PAS da USC 
+    Taxa xeral: 120 € 
+
+    Taxa reducida: 70 €  
+
+    Aplicable a estudantes universitarios, de bacharelato ou de formación profesional,
+    pensionistas, desempregados, socios da Asociación de Antigos alumnos da USC (ALUMNI) e PDI e PAS da USC 
 
   
 
@@ -424,37 +423,35 @@ UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO D
 
   
 
-  
-
-## PRAZO DE MATRÍCULA 
+### PRAZO DE MATRÍCULA 
 
     Ábrese o prazo o 10 de maio 
 
     Acaba o prazo, para este Curso: 9 de xullo. 
 
-NON SERÁ POSIBLE REALIZAR A INSCRICIÓN FÓRA DESTES PRAZOS. 
+> NON SERÁ POSIBLE REALIZAR A INSCRICIÓN FÓRA DESTES PRAZOS. 
 
   
 
-CENTROS DE MATRICULACIÓN E INFORMACIÓN 
+#### CENTROS DE MATRICULACIÓN E INFORMACIÓN 
 
-Campus de Compostela: 
+    Campus de Compostela: 
 
-Área de Cultura – Colexio de San Xerome – Reitoría 
+    Área de Cultura – Colexio de San Xerome – Reitoría 
 
-Praza do Obradoiro s/n 
+    Praza do Obradoiro s/n 
 
-Teléfonos 881811018 e 881811103 
+    Teléfonos 881811018 e 881811103 
 
   
 
-Campus de Lugo: 
+    Campus de Lugo: 
 
-Área de Cultura - Pazo de Montenegro 
+    Área de Cultura - Pazo de Montenegro 
 
-Praciña da Universidade 
+    Praciña da Universidade 
 
-Teléfono 98221513 
+    Teléfono 98221513 
 
   
 
