@@ -16,7 +16,7 @@ tags = ["eventos","cursos"]
 
 <p style="text-align: center;"> ALIGN TEXT </p>
 
-{{< image-resize /content/images/2021/image5.jpg "150x150" >}}
+{{< image-resize "/content/images/2021/image5.jpg" "150x150" >}}
 
     Nome do Curso: BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS. 
 
