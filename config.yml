@@ -1,7 +1,7 @@
 baseURL: "https://bimnaepsdelugo.es"
 languageCode: "es-ES"
 defaultContentLanguage: "es"
-title: "BIM na EPS de Lugo"
+title: "BIM na EPS dE Lugo"
 theme: "hugo-mucho-theme"
 paginate: 2
 pluralizelisttitles: false
