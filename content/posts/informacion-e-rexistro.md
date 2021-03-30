@@ -317,13 +317,13 @@ Moderada por: Tomás Cuesta García, Director da EPS de Enxeñaría de Lugo.
       Conferenciante: Alicia Cañizares Sánchez 
 
 
-#### CLAUSURA DO CURSO DE VERÁN 
+> ##### CLAUSURA DO CURSO DE VERÁN 
 
 > 13:45 a 14:00 
 
     Montserrat Valcárcel Armesto, Vicerreitora de Coordenación do Campus de Lugo 
 
-
+---
 
 ### CRÉDITOS E DIPLOMA DE ASISTENCIA 
 
@@ -333,23 +333,26 @@ Moderada por: Tomás Cuesta García, Director da EPS de Enxeñaría de Lugo.
 
     1 crédito por cada curso de menos de 25 horas (máximo 6 créditos en total) 
 
+---
 
 ### MATRÍCULA 
 
-    IMPORTE DA MATRÍCULA 
+> IMPORTE DA MATRÍCULA
 
-    Taxa xeral: 120 € 
-
-    Taxa reducida: 70 €  
-
-    * Aplicable a estudantes universitarios, de bacharelato ou de formación profesional,
-    pensionistas, desempregados, socios da Asociación de Antigos alumnos da USC (ALUMNI) e PDI e PAS da USC
-
+```
+Taxa xeral: €120
+Taxa reducida: €70 *
+```
+```
+* Aplicable a estudantes universitarios, de bacharelato ou de formación profesional,
+pensionistas, desempregados, socios da Asociación de Antigos alumnos da USC (ALUMNI) e PDI e PAS da USC
+```
 
     ** Nota: todas as persoas, nacionais ou estranxeiras, que non están cubertas polo seguro escolar obrigatorio do INSS, por non ter formalizada matrícula en estudos oficiais na USC no curso académico 2020/21 ou ben, sendo alumnos/as da USC neste curso 2020/21 son de nacionalidade estranxeira ou nacionais maiores de 28 anos e non teñan contratado este seguro nos estudos nos que formalizaron matrícula, deben subscribir o seguro obrigatorio de accidentes e asistencia en viaxe que terá un custe de 20 €. 
 
-> UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO DE SUSPENSIÓN DO CURSO. 
+> UNHA VEZ REALIZADA A MATRÍCULA NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO DE SUSPENSIÓN DO CURSO.
 
+---
 
 ### PRAZO DE MATRÍCULA 
 
@@ -357,10 +360,11 @@ Moderada por: Tomás Cuesta García, Director da EPS de Enxeñaría de Lugo.
 
     Acaba o prazo, para este Curso: 9 de xullo. 
 
-> NON SERÁ POSIBLE REALIZAR A INSCRICIÓN FÓRA DESTES PRAZOS. 
+> NON SERÁ POSIBLE REALIZAR A INSCRICIÓN FÓRA DESTES PRAZOS.
 
+---
 
-#### CENTROS DE MATRICULACIÓN E INFORMACIÓN 
+### CENTROS DE MATRICULACIÓN E INFORMACIÓN 
 
 ```
 Campus de Compostela: 
@@ -381,6 +385,8 @@ Praciña da Universidade
 
 Teléfono 98221513 
 ```
+
+---
 
 cursosdeveran@usc.es 
 
