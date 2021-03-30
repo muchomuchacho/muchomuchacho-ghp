@@ -74,14 +74,14 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
  > 9:30 a 11:15  
 
-  Conferencia 1. Empresa privada A&B 
+  **Conferencia 1.** Empresa privada A&B 
 
     Coñecemento do BIM. Idea xeral da Metodoloxía e Análise de tódolos Perfiles Técnicos BIM. 
 
     Conferenciante: André Garrido Iglesias 
 
 
-  Conferencia 2. Empresa privada A&B 
+  **Conferencia 2.** Empresa privada A&B 
 
     O BIM na actualidade. Implantación e procesos 
 
@@ -96,14 +96,14 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
 > 11:45 a 14:00 
 
-  Conferencia 3. Empresa privada A&B 
+  **Conferencia 3.** Empresa privada A&B 
 
     Un Proxecto BIM. Dimensións Ferramentas. Modelo. 
 
     Conferenciante: André Garrido Iglesias 
 
 
-  Conferencia 4. Empresa privada A&B 
+  **Conferencia 4.** Empresa privada A&B 
 
     O BIM na Enxeñaría Civil e en Xeomática e Topografía. 
 
@@ -120,7 +120,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 > 17:00 a 19:00 
 
 
-    Taller 1. Empresa privada GLOBAL GEOSYSTEMS - LEICA 
+  **Taller 1.** Empresa privada GLOBAL GEOSYSTEMS - LEICA 
 
     Presentación instrumentación: diferentes equipos utilizados para toma de datos y posterior modelización: escáneres láser. 
 
@@ -137,7 +137,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 > 9:00 a 11:15 
 
 
-  Conferencia 5. Empresa privada COPASA 
+  **Conferencia 5.** Empresa privada COPASA 
 
     BIM: Perspectiva xeral dende a Empresa Construtora. Retos diante o proceso de implantación. 
 
@@ -145,7 +145,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
  
 
-  Conferencia 6. Empresa privada COPASA 
+  **Conferencia 6.** Empresa privada COPASA 
 
     Principios elementais para a implantación de BIM en obras e conservacións. Casos prácticos. 
 
@@ -163,7 +163,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
  
 
-  Conferencia 7. Empresa privada SACYR 
+  **Conferencia 7.** Empresa privada SACYR 
 
     Implementación de BIM nos Proxectos de Infraestructuras de diferentes tipoloxías: Obra Ferroviaria, Estrada, Presa. 
 
@@ -171,7 +171,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
  
 
-  Conferencia 8. Empresa privada SACYR 
+  **Conferencia 8.** Empresa privada SACYR 
 
     Proxectos Design and Built: Xestión de Axentes, Información e Comunicación para o éxito de BIM. Formación e Perfiles necesarios. 
 
@@ -190,7 +190,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
  
 
-  Conferencia 9. Empresa pública INECO 
+  **Conferencia 9.** Empresa pública INECO 
 
     Retos diante do proceso de implantación BIM. Análise sobre o proceso transformador nunha grande empresa de Enxeñaría, pasos acometidos, retos futuros, éxitos e dificultades 
 
@@ -198,7 +198,7 @@ summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODO
 
  
 
-  Conferencia 10. Empresa pública INECO 
+  **Conferencia 10.** Empresa pública INECO 
 
     BIM no proxecto da autovía A-76. Caso práctico de aplicación da metodoloía BIM no proxecto dunha infraestructura lineal para a Dirección Xeral de Estradas. Exemplo de implantación nun proxecto de infraestructura lineal cun claro enfoque open BIM. Integración de modelos dixitais BIM en entornos SIX. 
 
@@ -269,13 +269,13 @@ Moderada por: Tomás Cuesta García, Director da EPS de Enxeñaría de Lugo.
     CONFERENCIAS è Horario de tarde, de 17:00 a 19:00 
 
 
-  Conferencia 11. UPM-ETSI Xeomática 
+  **Conferencia 11.** UPM-ETSI Xeomática 
 
       BIM na Universidade. Estruturación da Formación multidisciplinar. 
 
       Conferenciante: José Juan Arranz Justel 
 
-  Conferencia 12 UPM-ETSI Xeomática 
+  **Conferencia 12.** UPM-ETSI Xeomática 
 
       Evolución do Software de Xestión e Modelización  dos datos capturados  con criterios Topográficos e Xeomáticos para a súa incorporación a BIM. 
 
@@ -286,14 +286,14 @@ Moderada por: Tomás Cuesta García, Director da EPS de Enxeñaría de Lugo.
 
     CONFERENCIAS è Horario de mañá, de 9:00 a 11:15
 
-  Conferencia 13. Empresa privada BUHODRA 
+  **Conferencia 13.** Empresa privada BUHODRA 
 
       Concepto de Infraestruturas en BIM. Modelado e coordenación de infraestruturas.  
 
       Conferenciante: Alberto Pastor Vicario 
 
 
-  Conferencia 14. Empresa privada BUHODRA 
+  **Conferencia 14.** Empresa privada BUHODRA 
 
       Interoperabilidade de Datos e openBIM.  ISTRAM BIM 
 
@@ -310,7 +310,7 @@ Moderada por: Tomás Cuesta García, Director da EPS de Enxeñaría de Lugo.
 
 > 11:45 a 13:45 
 
-  Taller 2. Empresa privada GLOBAL GEOSYSTEMS / LEICA 
+  **Taller 2.** Empresa privada GLOBAL GEOSYSTEMS / LEICA 
 
       Integración de datos procedentes de captura masiva en campo (nubes de puntos) a Software de xestión orientado a BIM. Caso práctico. 
 
