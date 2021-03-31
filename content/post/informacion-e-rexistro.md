@@ -36,19 +36,19 @@ tags = ["eventos","cursos"]
  
 > Este curso, debido a súa complexidade, conta con cofinaciación procedente de varias institucións e entidades: 
 
-        ESCOLA POLITÉCNICA SUPERIOR DE ENXEÑARÍA DE LUGO 
+    ESCOLA POLITÉCNICA SUPERIOR DE ENXEÑARÍA DE LUGO 
 
-        CONCELLO DE LUGO 
+    CONCELLO DE LUGO 
 
-        DEPUTACIÓN DE LUGO 
+    DEPUTACIÓN DE LUGO 
 
-        COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS AGRÍCOLAS DE Lugo  
+    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS AGRÍCOLAS DE Lugo  
 
-        COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS EN OBRAS PÚBLICAS E ENXEÑARÍA CIVIL 
+    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS EN OBRAS PÚBLICAS E ENXEÑARÍA CIVIL 
 
-        COLEXIO OFICIAL DE ENXEÑEIROS EN XEOMÁTICA E TOPOGRAFÍA 
+    COLEXIO OFICIAL DE ENXEÑEIROS EN XEOMÁTICA E TOPOGRAFÍA 
 
-        COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS FORESTAIS DE GALICIA 
+    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS FORESTAIS DE GALICIA 
     
 ---
 
@@ -71,22 +71,21 @@ tags = ["eventos","cursos"]
 * CONFERENCIAS è Horario de mañá, de 9:30 a 14:00 
 
 
-    9:30 a 11:15  
+ > 9:30 a 11:15  
 
-        Conferencia 1. Empresa privada A&B 
+    Conferencia 1. Empresa privada A&B 
 
-        Coñecemento do BIM. Idea xeral da Metodoloxía e Análise de tódolos Perfiles Técnicos BIM. 
+    Coñecemento do BIM. Idea xeral da Metodoloxía e Análise de tódolos Perfiles Técnicos BIM. 
 
-        Conferenciante: André Garrido Iglesias 
+    Conferenciante: André Garrido Iglesias 
 
- 
- 
+    ---
 
-        Conferencia 2. Empresa privada A&B 
+    Conferencia 2. Empresa privada A&B 
 
-        O BIM na actualidade. Implantación e procesos 
+    O BIM na actualidade. Implantación e procesos 
 
-        Conferenciante: Verónica Vázquez Pulido 
+    Conferenciante: Verónica Vázquez Pulido 
 
  
 
