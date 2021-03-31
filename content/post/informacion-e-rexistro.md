@@ -54,11 +54,9 @@ tags = ["eventos","cursos"]
 
 ### PROGRAMA DO CURSO: 
 
- 
 
 > ##### Primeira Xornada: día 20 de xullo de 2021 
 
- 
 
 * APERTURA OFICIAL DO CURSO DE VERÁN 
 
@@ -72,7 +70,6 @@ tags = ["eventos","cursos"]
 
 * CONFERENCIAS è Horario de mañá, de 9:30 a 14:00 
 
- 
 
     9:30 a 11:15  
 
@@ -82,6 +79,7 @@ tags = ["eventos","cursos"]
 
         Conferenciante: André Garrido Iglesias 
 
+ 
  
 
         Conferencia 2. Empresa privada A&B 
@@ -106,6 +104,7 @@ tags = ["eventos","cursos"]
 
         Conferenciante: André Garrido Iglesias 
 
+ 
  
 
         Conferencia 4. Empresa privada A&B 
@@ -272,24 +271,15 @@ Tema 2.- Os roles do BIM, as persoas: como afecta a implantación desta metodolo
 
  
 
-    11:45 a 14:00 
-
- 
-
 Tema 3.- A colaboración no BIM: análise de estratexias de colaboración interna e externa desde o punto de vista humano e das ferramentas. 
 
  
-
 Tema 4.- BIM no ciclo de vida das infraestructuras: ¿qué debe aportar cada fase para garantir a mellor transmisión de información ás seguintes?¿debemos manter os entregables? Execución real dos proxectos usando esta Metodoloxía. 
 
  
-
 Tema 5.- O papel das administracións públicas na implementación do BIM 
 
  
-
- 
-
 Tema 6.- Intervención Telepresencial desde Chile de Técnico da Empresa SACYR para explicar o Proxecto que está dirixindo con Metodoloxía BIM. 
 
 
@@ -301,24 +291,19 @@ Tema 6.- Intervención Telepresencial desde Chile de Técnico da Empresa SACYR p
 
     CONFERENCIAS è Horario de tarde, de 17:00 a 19:00 
 
-    17:00 a 19:00 
-
  
 
-    Conferencia 11. UPM-ETSI Xeomática 
+* Conferencia 11. UPM-ETSI Xeomática 
 
-BIM na Universidade. Estruturación da Formación multidisciplinar. 
+        BIM na Universidade. Estruturación da Formación multidisciplinar. 
 
-Conferenciante: José Juan Arranz Justel 
+        Conferenciante: José Juan Arranz Justel 
 
-    Conferencia 12 UPM-ETSI Xeomática 
+* Conferencia 12 UPM-ETSI Xeomática 
 
-Evolución do Software de Xestión e Modelización  dos datos capturados  con criterios Topográficos e Xeomáticos para a súa incorporación a BIM. 
+        Evolución do Software de Xestión e Modelización  dos datos capturados  con criterios Topográficos e Xeomáticos para a súa incorporación a BIM. 
 
-Conferenciante: José Juan Arranz Justel 
-
-
-
+        Conferenciante: José Juan Arranz Justel 
 
 
 
@@ -329,44 +314,41 @@ Conferenciante: José Juan Arranz Justel
 * **CONFERENCIAS è Horario de mañá, de 9:00 a 11:15**
 
  
+* Conferencia 13. Empresa privada BUHODRA 
 
-    9:00 a 11:15 
+        Concepto de Infraestruturas en BIM. Modelado e coordenación de infraestruturas.  
 
-    Conferencia 13. Empresa privada BUHODRA 
-
-    Concepto de Infraestruturas en BIM. Modelado e coordenación de infraestruturas.  
-
-    Conferenciante: Alberto Pastor Vicario 
+        Conferenciante: Alberto Pastor Vicario 
 
  
 
-    Conferencia 14. Empresa privada BUHODRA 
+* Conferencia 14. Empresa privada BUHODRA 
 
-    Interoperabilidade de Datos e openBIM.  ISTRAM BIM 
+        Interoperabilidade de Datos e openBIM.  ISTRAM BIM 
 
-    Conferenciante: Alberto Pastor Vicario 
- 
+        Conferenciante: Alberto Pastor Vicario 
+
 
 * **TALLERES è Horario de mañá, de 12:00 a 14:00**
 
  
 
-    11:15 a 11:45 
+        11:15 a 11:45 
 
-    Café/Descanso 
-
- 
-
-    11:45 a 13:45 
-
-Taller 2. Empresa privada GLOBAL GEOSYSTEMS / LEICA 
-
-Integración de datos procedentes de captura masiva en campo (nubes de puntos) a Software de xestión orientado a BIM. Caso práctico. 
-
-Conferenciante: Alicia Cañizares Sánchez 
+        Café/Descanso 
 
  
-### CLAUSURA DO CURSO DE VERÁN 
+
+* 11:45 a 13:45 
+
+* Taller 2. Empresa privada GLOBAL GEOSYSTEMS / LEICA 
+
+        Integración de datos procedentes de captura masiva en campo (nubes de puntos) a Software de xestión orientado a BIM. Caso práctico. 
+
+        Conferenciante: Alicia Cañizares Sánchez 
+
+ 
+#### CLAUSURA DO CURSO DE VERÁN 
 
     13:45 a 14:00 
 
