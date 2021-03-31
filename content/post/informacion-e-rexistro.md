@@ -55,18 +55,17 @@ tags = ["eventos","cursos"]
 ### PROGRAMA DO CURSO: 
 
 
-> ##### Primeira Xornada: día 20 de xullo de 2021 
+##### Primeira Xornada: día 20 de xullo de 2021 
 
 
 * APERTURA OFICIAL DO CURSO DE VERÁN 
 
-    9:00 a 9:20 
+> 9:00 a 9:20 
 
 * Entrega documentación necesaria 
 
-    9:20 a 9:30 
+> 9:20 a 9:30 
 
- 
 
 * CONFERENCIAS è Horario de mañá, de 9:30 a 14:00 
 
