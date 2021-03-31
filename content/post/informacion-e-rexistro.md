@@ -33,13 +33,8 @@ tags = ["eventos","cursos"]
 
     Límite de alumnos: 70 
 
-    Web propia: https://bimnaepsdelugo.es 
-
-    Cofinanciación: 
-
  
-
-* Este curso, debido a súa complexidade, conta con cofinaciación procedente de varias institucións e entidades: 
+> Este curso, debido a súa complexidade, conta con cofinaciación procedente de varias institucións e entidades: 
 
         ESCOLA POLITÉCNICA SUPERIOR DE ENXEÑARÍA DE LUGO 
 
