@@ -13,13 +13,13 @@ params:
     BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS.
 
 
-  authorlocation: "Lugo, Espana"
+  authorlocation: "Lugo, España"
   cover: "images/w-2000_h-1100_m-cover_s-any__tunnelling.jpeg"
-  author: "EPS BIM"
+  author: "Pardiñas"
   # logo = "images/logo.png"
   ## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
-  githubName: "bimnaepsdelugo"
-  email: "bim@eps.es"
+  # githubName: "bimnaepsdelugo"
+  email: "cursosdeveran@usc.es"
   hideHUGOSupport: true
 
 # here are the buttons on the menu
@@ -30,7 +30,7 @@ menu:
       identifier: "home"
       pre: "<br />"
       url: "/"
-    - name: "Quen somos..."
+    - name: "Quenes somos"
       weight: 40
       identifier: "about"  # this button will refer to a markdown file named "about" in the content folder
       pre: "<br />"
