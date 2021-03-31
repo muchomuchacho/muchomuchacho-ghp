@@ -326,34 +326,28 @@ Conferenciante: José Juan Arranz Justel
 > ##### Cuarta Xornada: día 23 de xullo de 2021 
 
  
-
-    CONFERENCIAS è Horario de mañá, de 9:00 a 11:15 
+* **CONFERENCIAS è Horario de mañá, de 9:00 a 11:15**
 
  
 
     9:00 a 11:15 
 
- 
-
     Conferencia 13. Empresa privada BUHODRA 
 
-Concepto de Infraestruturas en BIM. Modelado e coordenación de infraestruturas.  
+    Concepto de Infraestruturas en BIM. Modelado e coordenación de infraestruturas.  
 
-Conferenciante: Alberto Pastor Vicario 
+    Conferenciante: Alberto Pastor Vicario 
 
  
 
     Conferencia 14. Empresa privada BUHODRA 
 
-Interoperabilidade de Datos e openBIM.  ISTRAM BIM 
+    Interoperabilidade de Datos e openBIM.  ISTRAM BIM 
 
-Conferenciante: Alberto Pastor Vicario 
-
+    Conferenciante: Alberto Pastor Vicario 
  
 
- 
-
-    TALLERES è Horario de mañá, de 12:00 a 14:00 
+* **TALLERES è Horario de mañá, de 12:00 a 14:00**
 
  
 
@@ -371,15 +365,12 @@ Integración de datos procedentes de captura masiva en campo (nubes de puntos) a
 
 Conferenciante: Alicia Cañizares Sánchez 
 
-Page Break 
-
  
-
 ### CLAUSURA DO CURSO DE VERÁN 
 
     13:45 a 14:00 
 
-Montserrat Valcárcel Armesto, Vicerreitora de Coordenación do Campus de Lugo 
+    Montserrat Valcárcel Armesto, Vicerreitora de Coordenación do Campus de Lugo 
 
 
 
@@ -390,9 +381,6 @@ Montserrat Valcárcel Armesto, Vicerreitora de Coordenación do Campus de Lugo
      2 créditos por cada curso de 25 ou máis horas (máximo 6 créditos en total) 
 
     1 crédito por cada curso de menos de 25 horas (máximo 6 créditos en total) 
-
-
-
 
 
 ### MATRÍCULA 
@@ -407,11 +395,10 @@ Montserrat Valcárcel Armesto, Vicerreitora de Coordenación do Campus de Lugo
     pensionistas, desempregados, socios da Asociación de Antigos alumnos da USC (ALUMNI) e PDI e PAS da USC) 
 
 
-    > A parte, todas as persoas, nacionais ou estranxeiras, que non están cubertas polo seguro escolar obrigatorio do INSS, por non ter formalizada matrícula en estudos oficiais na USC no curso académico 2020/21 ou ben, sendo alumnos/as da USC neste curso 2020/21 son de nacionalidade estranxeira ou nacionais maiores de 28 anos e non teñan contratado este seguro nos estudos nos que formalizaron matrícula, deben subscribir o seguro obrigatorio de accidentes e asistencia en viaxe que terá un custe de 20 €. 
+    * A parte, todas as persoas, nacionais ou estranxeiras, que non están cubertas polo seguro escolar obrigatorio do INSS, por non ter formalizada matrícula en estudos oficiais na USC no curso académico 2020/21 ou ben, sendo alumnos/as da USC neste curso 2020/21 son de nacionalidade estranxeira ou nacionais maiores de 28 anos e non teñan contratado este seguro nos estudos nos que formalizaron matrícula, deben subscribir o seguro obrigatorio de accidentes e asistencia en viaxe que terá un custe de 20 €. 
 
-    UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO DE SUSPENSIÓN DO CURSO. 
+> UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO DE SUSPENSIÓN DO CURSO. 
 
-  
 
 ### PRAZO DE MATRÍCULA 
 
