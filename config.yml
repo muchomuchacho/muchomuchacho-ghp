@@ -16,7 +16,7 @@ params:
   authorlocation: "Lugo, España"
   cover: "images/w-2000_h-1100_m-cover_s-any__tunnelling.jpeg"
   author: "Pardiñas"
-  logo: "images/2021-03-31_13-05.png"
+  logo: "images/320px-Logotype_of_Universidade_de_Santiago_de_Compostela.svg.png"
   ## save the image you want to use as website logo in directory "./static/images"(delete this line when editing)
   # githubName: "bimnaepsdelugo"
   email: "cursosdeveran@usc.es"
