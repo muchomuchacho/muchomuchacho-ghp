@@ -6,7 +6,7 @@ draft: false
 comments: false
 share: false
 menu: ""
-tags: ["eventos","cursos"]
+tags: ["Eventos","Cursos","BIM"]
 summary: "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS."
 
 ---
