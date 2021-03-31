@@ -1,7 +1,7 @@
 +++
 date = "2021-03-30T20:41:01+01:00"
 title = "Programa e datos de rexistro"
-image = {{< figure src="/content/images/2021/image4.jpg" alt="dwarf" width="600px" >}}
+image = "/content/images/2021/image4.jpg"
 draft = false
 comments = false
 share = false
