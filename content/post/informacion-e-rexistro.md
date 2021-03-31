@@ -403,14 +403,13 @@ Montserrat Valcárcel Armesto, Vicerreitora de Coordenación do Campus de Lugo
 
     Taxa reducida: 70 €  
 
-    Aplicable a estudantes universitarios, de bacharelato ou de formación profesional,
-    pensionistas, desempregados, socios da Asociación de Antigos alumnos da USC (ALUMNI) e PDI e PAS da USC 
+    (Aplicable a estudantes universitarios, de bacharelato ou de formación profesional,
+    pensionistas, desempregados, socios da Asociación de Antigos alumnos da USC (ALUMNI) e PDI e PAS da USC) 
 
-  
 
-A parte, todas as persoas, nacionais ou estranxeiras, que non están cubertas polo seguro escolar obrigatorio do INSS, por non ter formalizada matrícula en estudos oficiais na USC no curso académico 2020/21 ou ben, sendo alumnos/as da USC neste curso 2020/21 son de nacionalidade estranxeira ou nacionais maiores de 28 anos e non teñan contratado este seguro nos estudos nos que formalizaron matrícula, deben subscribir o seguro obrigatorio de accidentes e asistencia en viaxe que terá un custe de 20 €. 
+    > A parte, todas as persoas, nacionais ou estranxeiras, que non están cubertas polo seguro escolar obrigatorio do INSS, por non ter formalizada matrícula en estudos oficiais na USC no curso académico 2020/21 ou ben, sendo alumnos/as da USC neste curso 2020/21 son de nacionalidade estranxeira ou nacionais maiores de 28 anos e non teñan contratado este seguro nos estudos nos que formalizaron matrícula, deben subscribir o seguro obrigatorio de accidentes e asistencia en viaxe que terá un custe de 20 €. 
 
-UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO DE SUSPENSIÓN DO CURSO. 
+    UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO DE SUSPENSIÓN DO CURSO. 
 
   
 
@@ -435,6 +434,7 @@ UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO D
     Teléfonos 881811018 e 881811103 
     
 
+
     Campus de Lugo: 
 
     Área de Cultura - Pazo de Montenegro 
@@ -446,7 +446,5 @@ UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO D
   
 
 cursosdeveran@usc.es 
-
-  
 
 www.usc.gal/cultura/veran  
