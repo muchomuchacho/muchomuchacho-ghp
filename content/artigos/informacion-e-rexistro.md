@@ -1,19 +1,19 @@
-+++
-date = "2021-03-30T20:41:01+01:00"
-title = "Programa e datos de rexistro"
-image = "/content/images/2021/image4.jpg"
-draft = false
-comments = false
-share = false
-menu = ""
-tags = ["eventos","cursos"]
-summary = "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS."
+---
+date: "2021-03-30T20:41:01+01:00"
+title: "Programa e datos de rexistro"
+image: "/content/images/2021/image4.jpg"
+draft: false
+comments: false
+share: false
+menu: ""
+tags: ["eventos","cursos"]
+summary: "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS."
 
-+++
+---
 
 
 
-{{< figure src="/content/images/2021/image5.jpg" alt="dwarf" width="600px" >}}
+{{< figure src="/content/images/2021/image5.jpg" alt="" width="600px" >}}
 
     Nome do Curso: BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS. 
 
