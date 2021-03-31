@@ -115,7 +115,7 @@ tags = ["eventos","cursos"]
         Conferenciante: Verónica Vázquez Pulido 
 
 
-> Primeira Xornada: día 20 de xullo de 2021 
+> ##### Primeira Xornada: día 20 de xullo de 2021 
     
     
 * TALLERES è Horario de Tarde, de 17:00 a 19:00 
@@ -137,7 +137,7 @@ Toma de datos de campo en Tempo Real
 Conferenciante: Alicia Cañizares Sánchez 
 
 
-#### Segunda Xornada: día 21 de xullo de 2021 
+> ##### Segunda Xornada: día 21 de xullo de 2021 
 
  
 
@@ -188,7 +188,7 @@ Proxectos Design and Built: Xestión de Axentes, Información e Comunicación pa
 Conferenciante: Joana Menéres Pimentel de Melo
 
 
-#### Segunda Xornada: día 21 de xullo de 2021 
+> ##### Segunda Xornada: día 21 de xullo de 2021 
 
  
 
@@ -220,7 +220,7 @@ Conferenciante: Jorge Torrico Liz
 
 
 
-#### Terceira Xornada: día 22 de xullo de 2021 
+> ##### Terceira Xornada: día 22 de xullo de 2021 
 
  
 
@@ -295,7 +295,7 @@ Tema 6.- Intervención Telepresencial desde Chile de Técnico da Empresa SACYR p
 
 
 
-#### Terceira Xornada: día 22 de xullo de 2021 
+> ##### Terceira Xornada: día 22 de xullo de 2021 
 
  
 
@@ -323,7 +323,7 @@ Conferenciante: José Juan Arranz Justel
 
 
 
-#### Cuarta Xornada: día 23 de xullo de 2021 
+> ##### Cuarta Xornada: día 23 de xullo de 2021 
 
  
 
@@ -433,8 +433,7 @@ UNHA VEZ REALIZADA A MATRÍCULA, NON SE EFECTUARÁN DEVOLUCIÓNS AGÁS NO CASO D
     Praza do Obradoiro s/n 
 
     Teléfonos 881811018 e 881811103 
-
-  
+    
 
     Campus de Lugo: 
 
