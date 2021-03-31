@@ -10,7 +10,7 @@
         {{ if .Site.Params.paginatedsections }}
             {{ $.Scratch.Set "paginatedSections" .Site.Params.paginatedsections }}
         {{ else }}
-            {{ $.Scratch.Set "paginatedSections" "posts" }}
+            {{ $.Scratch.Set "paginatedSections" "artigos" }}
         {{ end }}
     {{ end }}
 
@@ -22,7 +22,7 @@
         {{ partial "pagination.html" $paginator }}
     </div>
 
-    {{ range $idx, $page := where $paginator.Pages "Section" "posts" }}
+    {{ range $idx, $page := where $paginator.Pages "Section" "artigos" }}
       {{ partial "li.html" $page }}
     {{ end }}
 
