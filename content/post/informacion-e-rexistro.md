@@ -50,13 +50,13 @@ tags = ["eventos","cursos"]
 
         COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS FORESTAIS DE GALICIA 
     
-    
+---
 
 ### PROGRAMA DO CURSO: 
 
  
 
-#### Primeira Xornada: día 20 de xullo de 2021 
+> Primeira Xornada: día 20 de xullo de 2021 
 
  
 
@@ -115,7 +115,7 @@ tags = ["eventos","cursos"]
         Conferenciante: Verónica Vázquez Pulido 
 
 
-#### Primeira Xornada: día 20 de xullo de 2021 
+> Primeira Xornada: día 20 de xullo de 2021 
     
     
 * TALLERES è Horario de Tarde, de 17:00 a 19:00 
