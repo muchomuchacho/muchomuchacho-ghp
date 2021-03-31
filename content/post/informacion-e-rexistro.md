@@ -56,7 +56,7 @@ tags = ["eventos","cursos"]
 
  
 
-> Primeira Xornada: día 20 de xullo de 2021 
+> ##### Primeira Xornada: día 20 de xullo de 2021 
 
  
 
