@@ -7,4 +7,5 @@ share = false
 +++
 
 #### Os nosos datos de contacto
-* email: bim@eps.es
+
+> [cursosdeveran@usc.es](mailto:cursosdeveran@usc.es)
