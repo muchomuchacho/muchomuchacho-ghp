@@ -1,5 +1,5 @@
 ---
-date: "2021-04-01"
+date: "2021-03-31"
 title: "Programa e datos de rexistro"
 image: "/images/110612logocursosveran.jpg"
 draft: false
