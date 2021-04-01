@@ -7,7 +7,7 @@ comments: false
 share: false
 menu: ""
 tags: ["Eventos","Cursos","BIM"]
-summary: "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODOLOXÍA COLABORATIVA PARA AS GRANDES OBRAS DE ENXEÑARÍA. PERSPECTIVA ACADÉMICA E DE EMPRESAS."
+summary: "Programa, horario e datos de rexistro para o curso de verán"
 
 ---
 
@@ -29,9 +29,9 @@ summary: "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODOL
 
     Espazo de impartición de Conferencias e Mesa Redonda: SALÓN DE ACTOS 
 
-    Espazo de impartición de Talleres con instrumentación de captura masiva de datos: CAMPO DE PRÁCTICAS EPSDELUGO, ZONA VAGUADA. Procesado no SALÓN DE ACTOS 
+    Espazo de impartición de Talleres con instrumentación de captura masiva de datos: CAMPO DE PRÁCTICAS EPS DE LUGO, ZONA VAGUADA. Procesado no SALÓN DE ACTOS 
 
-    Número de horas lecticas: 26 
+    Número de horas lectivas: 26 
 
     Límite de alumnos: 70 
 
@@ -44,7 +44,7 @@ summary: "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODOL
 
     DEPUTACIÓN DE LUGO 
 
-    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS AGRÍCOLAS DE Lugo  
+    COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS AGRÍCOLAS DE LUGO  
 
     COLEXIO OFICIAL DE ENXEÑEIROS TÉCNICOS EN OBRAS PÚBLICAS E ENXEÑARÍA CIVIL 
 
@@ -76,7 +76,7 @@ summary: "Información para o evento - BIM: PRESENTE E FUTURO DUNHA NOVA METODOL
 
   **Conferencia 1.** Empresa privada A&B 
 
-    Coñecemento do BIM. Idea xeral da Metodoloxía e Análise de tódolos Perfiles Técnicos BIM. 
+    Coñecemento do BIM. Idea xeral da Metodoloxía e AnClise de tódolos Perfiles Técnicos BIM. 
 
     Conferenciante: André Garrido Iglesias 
 
