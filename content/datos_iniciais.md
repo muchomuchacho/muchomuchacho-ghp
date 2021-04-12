@@ -1,5 +1,5 @@
 ---
-date: "2021-03-31"
+date: "2021-04-12"
 title: "DATOS INICIAIS DO CURSO"
 image: "/images/110612logocursosveran.jpg"
 draft: false
