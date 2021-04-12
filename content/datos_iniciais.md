@@ -7,7 +7,7 @@ comments: false
 share: false
 menu: "main"
 tags: ["Eventos","Cursos","BIM"]
-summary: "DATOS INICIAIS DO CURSO"
+summary: ""
 
 ---
 {{< figure src="/content/images/2021/image5.jpg" alt="" width="600px" >}}
