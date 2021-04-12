@@ -1,0 +1,21 @@
+---
+date: "2021-04-12"
+title: "CALENDARIO E LUGAR DE IMPARTICIÓN"
+image: ""
+draft: false
+comments: false
+share: false
+menu: "main"
+tags: ["Eventos","Cursos","BIM"]
+summary: "CALENDARIO E LUGAR DE IMPARTICIÓN"
+
+---
+{{< figure src="/content/images/2021/image5.jpg" alt="" width="600px" >}}
+
+* Calendario de celebración: 20, 21, 22 e 23 de xullo de 2021
+* Lugar de celebración: ESCOLA POLITÉCNICA SUPERIOR DE
+* Espazo de impartición de Conferencias e Mesa Redonda:
+  SALÓN DE ACTOS
+* Espazo de impartición de Talleres con instrumentación de
+  captura masiva de datos: CAMPO DE PRÁCTICAS EPSDELUGO,
+  ZONA VAGUADA. Procesado no SALÓN DE ACTOS
