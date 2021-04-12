@@ -1,7 +1,7 @@
 ---
 date: "2021-04-12"
 title: "DATOS INICIAIS DO CURSO"
-image: "/images/110612logocursosveran.jpg"
+image: ""
 draft: false
 comments: false
 share: false
@@ -10,6 +10,7 @@ tags: ["Eventos","Cursos","BIM"]
 summary: "DATOS INICIAIS DO CURSO"
 
 ---
+{{< figure src="/content/images/2021/image5.jpg" alt="" width="600px" >}}
 
 ### DATOS INICIAIS DO CURSO
 * Nome do Curso: BIM: PRESENTE E FUTURO DUNHA NOVA
