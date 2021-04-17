@@ -7,6 +7,7 @@ comments: false
 share: false
 menu: ""
 tags: ["Eventos","Cursos","BIM"]
+summary: "Links e outra información de interese"
 
 ---
 
