@@ -1,9 +1,6 @@
-# public website
-Source code for my personal portfolio
+# bimnaepsdelugo
+Codigo fuente de https://bimnaepsdelugo.es
 
 ### Init
 Pull the repo:
 `git clone https://github.com/muchomuchacho/muchomuchacho-ghp.git`
-
-Pull the themes:
-`git submodule update --init`
