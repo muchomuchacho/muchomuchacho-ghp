@@ -1,5 +1,5 @@
 # bimnaepsdelugo
-Codigo fuente de https://bimnaepsdelugo.es
+Codigo fuente del sitio https://bimnaepsdelugo.es
 
 ### Init
 Pull the repo:
